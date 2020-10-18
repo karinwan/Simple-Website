@@ -1,2 +1,2 @@
 # Simple-Website
-This is my persoanl website. 
+This is a simple website built with HTML, CSS, and JavaScript. 
